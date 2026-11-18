@@ -1,0 +1,14 @@
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+*.py[cod]
+database/*.db
+*.sqlite
+*.sqlite3
+uploads/*
+!uploads/.gitkeep
+*.pt
+.env
+.env.*
+.streamlit/secrets.toml

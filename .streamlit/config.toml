@@ -1,0 +1,16 @@
+[server]
+maxUploadSize = 5
+enableCORS = true
+enableXsrfProtection = true
+runOnSave = true
+
+[client]
+showSidebarNavigation = false
+
+[theme]
+base = "light"
+primaryColor = "#b4232f"
+backgroundColor = "#f5f7fb"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#172b3a"
+font = "sans serif"
